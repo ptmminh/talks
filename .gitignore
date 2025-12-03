@@ -1,0 +1,11 @@
+# Presentation files
+*.slides.html
+
+# Converted Markdown files
+prez.md
+
+# vscode settings
+.vscode/
+
+# macOS files
+.DS_Store
